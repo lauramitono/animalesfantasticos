@@ -1,0 +1,22 @@
+Primera Escuela de Arte Multimedial Da Vinci
+Diseño y Programación Web
+Comisión 5A TN - 1er. Cuatrimestre 2018 
+
+Aplicaciones Enriquecidas
+Prof. Santiago Gallino
+
+Alum: María Laura Mitono
+DNI: 29.192.942
+
+EXAMEN FINAL
+Fecha de entrega: Julio-2018
+
+/** Paquetes instalados **/
+- intervention/image
+- laraveles/spanish: https://packalyst.com/packages/package/laraveles/spanish
+
+/** Datos de logueo **/
+
+Email       ->  newt@criaturas.com.ar
+Contraseña  ->  123
+

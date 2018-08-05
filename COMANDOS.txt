@@ -1,0 +1,15 @@
+<<< COMANDOS >>>
+
+php artisan migrate:fresh
+php artisan db:seed
+
+php artisan make:migration <nombreMigracion>
+php artisan make:model Models\<nombreModelo>
+php artisan make:controller <nombreControlador>
+php artisan make:seeder <NombreTabla>TableSeeder
+php artisan make:middware <NombreDelMiddware>
+php artisan storage:link
+
+php vendor/phpunit/phpunit/phpunit
+php vendor/phpunit/phpunit/phpunit --testdox
+php artisan make:test <NombreTest> ->por defecto los crea en "Features" agregarle --unit para que los cree en "Unit"
